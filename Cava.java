@@ -1,10 +1,4 @@
 
-/**
- * Escreva a descrição da classe Cavas aqui.
- * 
- * @author (seu nome) 
- * @version (número de versão ou data)
- */
 public class Cava
 {
     int nomeDaCava;
